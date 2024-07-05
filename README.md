@@ -32,7 +32,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pablocarnauba&show_icons=true&locale=en&layout=compact" alt="pablocarnauba" />
 </p>
 
-<h3 align="left">🏆 GitHub Troféus</h3>
+<h1 align="left">🏆 GitHub Troféus</h1>
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=pablocarnauba" alt="pablocarnauba" />
