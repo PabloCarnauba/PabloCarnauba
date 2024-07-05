@@ -1,7 +1,7 @@
 <h1 align="center">💫 Sobre</h1>
 <h3 align="center">🎓 Sou iniciante em programação, estou mergulhando no universo de Python. 🚀 Faço parte do curso "Ninho de Desenvolvedores" e estou sempre em busca de novos aprendizados e desafios.</h3>
 
-<h3 align="left">🌐 Redes</h3>
+<h1 align="left">🌐 Redes</h1>
 <p align="left">
 <a href="https://linkedin.com/in/pablo-carnauba-799196252" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
