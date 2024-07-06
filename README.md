@@ -23,21 +23,23 @@
 
 <h1 align="left">📊 GitHub Stats:</h1>
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pablocarnauba&" alt="pablocarnauba" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pablocarnauba&theme=dracula&locale=pt-br" alt="pablocarnauba" />
 </p>
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=pablocarnauba&show_icons=true&locale=en" alt="pablocarnauba" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=pablocarnauba&show_icons=true&locale=pt-br&theme=dracula" alt="pablocarnauba" />
 </p>
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pablocarnauba&show_icons=true&locale=en&layout=compact" alt="pablocarnauba" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pablocarnauba&show_icons=true&locale=pt-br&layout=compact&theme=dracula" alt="pablocarnauba" />
 </p>
 
 <h1 align="left">🏆 GitHub Troféus:</h1>
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=pablocarnauba" alt="pablocarnauba" />
+    <img src="https://github-profile-trophy.vercel.app/?username=pablocarnauba&theme=dracula" alt="pablocarnauba" />
   </a>
 </p>
+
+---
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=pablocarnauba&label=Profile%20views&color=0e75b6&style=flat" alt="pablocarnauba" />
