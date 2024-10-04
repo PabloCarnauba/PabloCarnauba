@@ -1,5 +1,5 @@
 <h1 align="center">💫 Sobre:</h1>
-<h3 align="center">🎓 Sou desenvolvedor em início de carreira com experiência em projetos que vão desde o desenvolvimento de sistemas até a criação de jogos. Tenho forte foco em Python e SQL, e já trabalhei com uma variedade de tecnologias. </h3>
+<h3 align="center">🎓 Sou desenvolvedor em início de carreira com experiência em projetos que vão desde o desenvolvimento de sistemas até a criação de jogos. Tenho foco em Python e SQL, e já trabalhei com variedades de tecnologias. </h3>
 
 <h1 align="left">🌐 Redes:</h1>
 <p align="left">
